@@ -1,0 +1,12 @@
+.img2{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 1;
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    border: 3px solid black;
+    margin-top: -80px;
+}
